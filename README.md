@@ -10,6 +10,15 @@ Dentre as tecnologias, linguagens e framewoks ultilizadas no projeto estão:
 - JavaScript;
 - React & Next.JS.
 
+Instalações e configurações necessárias para à execução da aplicação:
+
+1º - Download do Node JS;
+https://nodejs.org/en/download/
+2º - Instação do arquivo;
+3º - Após a instalação do arquivo, precisamos instalar o npm.
+npm install
+
+
 ## Rodando a aplicação
 
 Primeiro, execute o servidor de desenvolvimento (pelo cmd entre na pasta do projeto e execute o comando abaixo):
@@ -19,7 +28,5 @@ npm run dev
 # ou
 yarn dev
 ```
-
-Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
-
-A página inicial do projeto (página de login) pode ser acessada por [http://localhost:3000/chat_pages/login](http://localhost:3000/chat_pages/login)
+Link da página inicial: http://localhost:3000/chat_pages/login
+Link para a página do chat: http://localhost:3000/chat_pages/tela_chat
